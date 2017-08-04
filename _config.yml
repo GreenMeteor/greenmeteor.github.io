@@ -1,6 +1,3 @@
 title: Green Volume
 
 theme: jekyll-theme-minimal
-
-gems:
-  - jekyll-redirect_from: "/index/"
