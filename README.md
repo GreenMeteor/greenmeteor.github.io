@@ -1,7 +1,7 @@
 # Green Meteor
 Green Meteor temp website.
 
-[![Join the chat at https://gitter.im/GreenMeteor](https://badges.gitter.im/GreenMeteor.svg)](https://gitter.im/GreenMeteor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Join the chat at https://gitter.im/GreenMeteor](https://badges.gitter.im/GreenMeteor.svg)](https://gitter.im/GreenMeteor?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge) [![Discord](https://discordapp.com/api/guilds/367302199916888064/widget.png)](https://discord.gg/AKZMkt4)
 
 ## Mobile Apps
 
