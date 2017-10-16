@@ -17,5 +17,4 @@ Green Meteor temp website.
 [Theme List](https://GreenMeteor.github.io/Themes/)
 
 ## Docs
-- [HumHub Windows 10 App Docs](https://github.com/GreenMeteor/humhub-windows-10-app/blob/master/docs/README.md)
-- [MadeHub Guide](https://github.com/GreenMeteor/humhub-themes-MadeHub/wiki/Guide-To-Using-MadeHub)
+[Official Docs](https://greenmeteor.github.io/docs/)
