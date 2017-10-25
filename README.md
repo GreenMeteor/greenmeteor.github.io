@@ -11,13 +11,13 @@ Green Meteor temp website.
 
 
 ## Modules
-[Module List](https://GreenMeteor.github.io/Modules/)
+[Module List](modules)
 
 ## Themes
-[Theme List](https://GreenMeteor.github.io/Themes/)
+[Theme List](Themes)
 
 ## Docs
-[Official Docs](https://greenmeteor.github.io/docs/)
+[Official Docs](docs)
 
 # Contact Information
 [Contact Us](forms)
