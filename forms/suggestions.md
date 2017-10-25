@@ -1,4 +1,4 @@
-# Contact Us
+# Suggestions
 The following is how to best contact us.
 
 ### Suggestions/Ideas
