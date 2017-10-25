@@ -14,7 +14,7 @@ Green Meteor temp website.
 [Module List](modules)
 
 ## Themes
-[Theme List](Themes)
+[Theme List](themes)
 
 ## Docs
 [Official Docs](docs)
