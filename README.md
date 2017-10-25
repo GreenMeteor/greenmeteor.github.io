@@ -18,3 +18,6 @@ Green Meteor temp website.
 
 ## Docs
 [Official Docs](https://greenmeteor.github.io/docs/)
+
+# Contact Information
+[Contact Us](forms)
