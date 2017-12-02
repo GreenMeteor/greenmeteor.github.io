@@ -1,4 +1,21 @@
 title: Green Meteor
 
-permalink: https://greenmeteor.freeflarum.com/
+- title: Forums
+  url: https://greenmeteor.freeflarum.com/
+
+- title: Docs
+  url: /docs
+
+- title: Modules
+  url: /modules
+
+- title: Themes
+  url: /themes
+  
+- title: Contact Us
+  url: /forms
+
+- title: Other
+  url: /other
+
 theme: jekyll-theme-minimal
