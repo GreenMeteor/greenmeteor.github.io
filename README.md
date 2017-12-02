@@ -16,5 +16,5 @@
 ## Docs
 [Official Docs](/docs)
 
-# Contact Information
+## Contact Information
 [Contact Us](/forms)
