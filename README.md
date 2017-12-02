@@ -18,3 +18,5 @@
 
 ## Contact Information
 [Contact Us](/forms)
+
+[Forums](https://greenmeteor.freeflarum.com/)
