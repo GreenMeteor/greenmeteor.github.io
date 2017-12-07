@@ -4,8 +4,10 @@
 
 You'll find a list of the following Modules that we personally worked on or created for personal and public use.
 
-## [Slack Chat Module](https://github.com/GreenMeteor/humhub-modules-slack)
-Add a simple widget into your HumHub installations via Smallchat.
+## [Steam Module](https://github.com/GreenMeteor/humhub-steam-module)
+Adds a sidebar widget to the Dashboard.
+## [TwitchTV Module](https://github.com/GreenMeteor/humhub-twitchtv-module)
+Adds a sidebar widget to the Dashboard.
 
 ## [Discord App](https://github.com/GreenMeteor/humhub-discordapp-module)
 Discord Module for Humhub
@@ -29,6 +31,9 @@ Creates a Gitter.im sidecar (widget) on the sidebar of your HumHub installation.
 Adds a widget on the Dashboard and displays the online groups.
 
 # Discontinued
+
+## [Slack Chat Module](https://github.com/GreenMeteor/humhub-modules-slack)
+Add a simple widget into your HumHub installations via Smallchat.
 
 ## [Places Module](https://github.com/GreenMeteor/humhub-places-module)
 `TBA`
