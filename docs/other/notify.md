@@ -1,2 +1,0 @@
-# HumHub Notify
-`TBA`
